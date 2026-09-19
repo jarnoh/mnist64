@@ -1,0 +1,6 @@
+#import "generated_model_header.asm"
+#import "macros.asm"
+*=$a000 "Early Head"
+#import "generated_early_head.asm"
+*=* "Model"
+#import "generated_model.asm"

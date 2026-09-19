@@ -1,0 +1,138 @@
+data/b3 f2 0 1
+data/mnist_test_2bit.labels.bin 8d00 +5376 +256
+data/mnist_test_2bit.bin 8e00 +774144 +4608
+
+data/mnist_test_2bit.bin 8e00 +778752 +4608
+
+data/mnist_test_2bit.bin 8e00 +783360 +4608
+
+data/mnist_test_2bit.bin 8e00 +787968 +4608
+
+data/mnist_test_2bit.bin 8e00 +792576 +4608
+
+data/mnist_test_2bit.bin 8e00 +797184 +4608
+
+data/mnist_test_2bit.bin 8e00 +801792 +4608
+
+data/mnist_test_2bit.bin 8e00 +806400 +4608
+
+data/mnist_test_2bit.labels.bin 8d00 +5632 +256
+data/mnist_test_2bit.bin 8e00 +811008 +4608
+
+data/mnist_test_2bit.bin 8e00 +815616 +4608
+
+data/mnist_test_2bit.bin 8e00 +820224 +4608
+
+data/mnist_test_2bit.bin 8e00 +824832 +4608
+
+data/mnist_test_2bit.bin 8e00 +829440 +4608
+
+data/mnist_test_2bit.bin 8e00 +834048 +4608
+
+data/mnist_test_2bit.bin 8e00 +838656 +4608
+
+data/mnist_test_2bit.bin 8e00 +843264 +4608
+
+data/mnist_test_2bit.labels.bin 8d00 +5888 +256
+data/mnist_test_2bit.bin 8e00 +847872 +4608
+
+data/mnist_test_2bit.bin 8e00 +852480 +4608
+
+data/mnist_test_2bit.bin 8e00 +857088 +4608
+
+data/mnist_test_2bit.bin 8e00 +861696 +4608
+
+data/mnist_test_2bit.bin 8e00 +866304 +4608
+
+data/mnist_test_2bit.bin 8e00 +870912 +4608
+
+data/mnist_test_2bit.bin 8e00 +875520 +4608
+
+data/mnist_test_2bit.bin 8e00 +880128 +4608
+
+data/mnist_test_2bit.labels.bin 8d00 +6144 +256
+data/mnist_test_2bit.bin 8e00 +884736 +4608
+
+data/mnist_test_2bit.bin 8e00 +889344 +4608
+
+data/mnist_test_2bit.bin 8e00 +893952 +4608
+
+data/mnist_test_2bit.bin 8e00 +898560 +4608
+
+data/mnist_test_2bit.bin 8e00 +903168 +4608
+
+data/mnist_test_2bit.bin 8e00 +907776 +4608
+
+data/mnist_test_2bit.bin 8e00 +912384 +4608
+
+data/mnist_test_2bit.bin 8e00 +916992 +4608
+
+data/mnist_test_2bit.labels.bin 8d00 +6400 +256
+data/mnist_test_2bit.bin 8e00 +921600 +4608
+
+data/mnist_test_2bit.bin 8e00 +926208 +4608
+
+data/mnist_test_2bit.bin 8e00 +930816 +4608
+
+data/mnist_test_2bit.bin 8e00 +935424 +4608
+
+data/mnist_test_2bit.bin 8e00 +940032 +4608
+
+data/mnist_test_2bit.bin 8e00 +944640 +4608
+
+data/mnist_test_2bit.bin 8e00 +949248 +4608
+
+data/mnist_test_2bit.bin 8e00 +953856 +4608
+
+data/mnist_test_2bit.labels.bin 8d00 +6656 +256
+data/mnist_test_2bit.bin 8e00 +958464 +4608
+
+data/mnist_test_2bit.bin 8e00 +963072 +4608
+
+data/mnist_test_2bit.bin 8e00 +967680 +4608
+
+data/mnist_test_2bit.bin 8e00 +972288 +4608
+
+data/mnist_test_2bit.bin 8e00 +976896 +4608
+
+data/mnist_test_2bit.bin 8e00 +981504 +4608
+
+data/mnist_test_2bit.bin 8e00 +986112 +4608
+
+data/mnist_test_2bit.bin 8e00 +990720 +4608
+
+data/mnist_test_2bit.labels.bin 8d00 +6912 +256
+data/mnist_test_2bit.bin 8e00 +995328 +4608
+
+data/mnist_test_2bit.bin 8e00 +999936 +4608
+
+data/mnist_test_2bit.bin 8e00 +1004544 +4608
+
+data/mnist_test_2bit.bin 8e00 +1009152 +4608
+
+data/mnist_test_2bit.bin 8e00 +1013760 +4608
+
+data/mnist_test_2bit.bin 8e00 +1018368 +4608
+
+data/mnist_test_2bit.bin 8e00 +1022976 +4608
+
+data/mnist_test_2bit.bin 8e00 +1027584 +4608
+
+data/mnist_test_2bit.labels.bin 8d00 +7168 +256
+data/mnist_test_2bit.bin 8e00 +1032192 +4608
+
+data/mnist_test_2bit.bin 8e00 +1036800 +4608
+
+data/mnist_test_2bit.bin 8e00 +1041408 +4608
+
+data/mnist_test_2bit.bin 8e00 +1046016 +4608
+
+data/mnist_test_2bit.bin 8e00 +1050624 +4608
+
+data/mnist_test_2bit.bin 8e00 +1055232 +4608
+
+data/mnist_test_2bit.bin 8e00 +1059840 +4608
+
+data/mnist_test_2bit.bin 8e00 +1064448 +4608
+
+data/b4 f3 0 1
