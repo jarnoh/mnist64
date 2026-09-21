@@ -1,0 +1,5 @@
+# python3.12
+
+numpy~=2.5.0
+tensorflow~=2.21.0
+tensorflow-datasets~=4.9.0
